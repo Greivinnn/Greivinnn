@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Greivin 👋
 
 <!--
-**Greivinnn/Greivinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  GIF BANNER — replace the src below with a GIF you like.
+  Tip: on Giphy/Tenor, right-click the gif and "Copy Image Address"
+  to get a direct .gif link (not the page URL).
 -->
+<img src="https://giphy.com/explore/coding-cat" width="100%" alt="banner gif"/>
+
+### Gameplay Programmer (Final-Year Game Development Student)
+
+I build gameplay systems — AI, combat, and core mechanics — in Unity and Unreal.
+Currently finishing my degree and looking for a gameplay programming internship / junior role.
+
+---
+
+### 🎮 Featured Projects
+
+<!--
+  Pick your 2-3 strongest repos. One line each: what it is + the
+  interesting technical bit (not just "a game").
+-->
+
+**[Project Name](https://github.com/Greivinnn/repo-name)**
+Short one-liner on what it does and the systems behind it (e.g. FSM-driven enemy AI with NavMesh pathfinding).
+
+**[Project Name](https://github.com/Greivinnn/repo-name)**
+Short one-liner.
+
+---
+
+### 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📫 Contact
+
+- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)
+- Email: your.email@example.com
