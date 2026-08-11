@@ -5,7 +5,7 @@
   Tip: on Giphy/Tenor, right-click the gif and "Copy Image Address"
   to get a direct .gif link (not the page URL).
 -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG5xd21tNHUwNm9hcDF3NWU4bWJzeDhzM3A5eWx4YW0zZmR6cnYxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/200.gif" width="200" align="right" alt="banner gif"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG5xd21tNHUwNm9hcDF3NWU4bWJzeDhzM3A5eWx4YW0zZmR6cnYxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/200.gif" width="200" align="left" alt="banner gif"/>
 
 ### Gameplay Programmer (Final-Year Game Development Student)
 
