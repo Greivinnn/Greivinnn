@@ -18,12 +18,13 @@ I build core gameplay systems, things like: mechanics, combat, AI, and the under
 ---
 
 ### 🎮 Featured Projects
-**[Penguin Slide](https://github.com/Greivinnn/GameJam-Greivin-JP-Thomas)**
-Tile-based puzzle game combining raycast enemy vision with ice-sliding movement, solved by strategically pushing blocks to block sightlines and control momentum.
-**[Beat The Market](https://github.com/Greivinnn/Software_Developing_Game_Project)**
-Unity rhythm game with a trading twist, real-time chart rendering, pitch-synced audio, animator-driven hit feedback, and a modular chart-loading system.
-**[Backstage](https://github.com/varuka999/GGJ-2026-Backstage)**
-Unity 2D top-down game (GGJ 2026) with a mask-based ability system (shader-driven Detective vision, collision-checked Ghost dash), a polymorphic clue/puzzle framework, and a modular interactable system built on Unity's Input System and Cinemachine.
+
+**[Penguin Slide](https://github.com/Greivinnn/GameJam-Greivin-JP-Thomas)** Tile-based puzzle game combining raycast enemy vision with ice-sliding movement, solved by strategically pushing blocks to block sightlines and control momentum.
+
+**[Beat The Market](https://github.com/Greivinnn/Software_Developing_Game_Project)** Unity rhythm game with a trading twist, real-time chart rendering, pitch-synced audio, animator-driven hit feedback, and a modular chart-loading system.
+
+**[Backstage](https://github.com/varuka999/GGJ-2026-Backstage)** Unity 2D top-down game (GGJ 2026) with a mask-based ability system (shader-driven Detective vision, collision-checked Ghost dash), a polymorphic clue/puzzle framework, and a modular interactable system built on Unity's Input System and Cinemachine.
+
 ---
 
 ### 🛠️ Tech Stack
