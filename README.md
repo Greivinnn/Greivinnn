@@ -46,5 +46,5 @@ Short one-liner.
 
 ### 📫 Contact
 
-- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)
+- LinkedIn: [linkedin.com/in/greivinwen](www.linkedin.com/in/greivinwen)
 - Email: wenwugreivin5@gmail.com
