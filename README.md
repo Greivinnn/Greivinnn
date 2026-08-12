@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Greivin Wen's Repo</h1>
+<h1>Greivin Wen</h1>
 
 </div>
 
