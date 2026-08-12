@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Greivin Wen's Repo <img src="https://s1.ezgif.com/tmp/ezgif-1ca7f30388a1282f.webp" width="35" height="35"/></h1>
+<h1>Greivin Wen's Repo</h1>
 
 </div>
 
