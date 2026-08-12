@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Greivin <img src="https://media.tenor.com/BCQJFkjyNYwAAAAi/%D1%85%D0%B0%D0%BF%D0%BF%D0%B8-happy-cat.gif" width="35" height="35"/></h1>
+<h1>Greivin Wen's Repo <img src="https://media.tenor.com/ULt1QoO_tc0AAAAj/cat-vibe-vibe-cat.gif" width="35" height="35"/></h1>
 
 </div>
 
