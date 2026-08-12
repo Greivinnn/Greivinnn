@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Greivin Wen's Repo <img src="https://camo.githubusercontent.com/7cebdb5af25264ac87412f2cf8b500fb7671292563f6dff72a6a649fc5f4fc18/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="35" height="35"/></h1>
+<h1>Greivin Wen's Repo <img src="https://s1.ezgif.com/tmp/ezgif-1ca7f30388a1282f.webp" width="35" height="35"/></h1>
 
 </div>
 
