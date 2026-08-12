@@ -11,7 +11,7 @@
 -->
 <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG5xd21tNHUwNm9hcDF3NWU4bWJzeDhzM3A5eWx4YW0zZmR6cnYxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/200.gif" width="200" align="right" alt="banner gif"/>
 
-### About me
+### 📝 About me
 
 I build core gameplay systems, things like: mechanics, combat, AI, and the underlying pipelines that make a game actually run under the hood.
 
