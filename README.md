@@ -31,7 +31,7 @@ Tile-based puzzle game combining raycast enemy vision with ice-sliding movement,
 Unity rhythm game with a trading twist, real-time chart rendering, pitch-synced audio, animator-driven hit feedback, and a modular chart-loading system.
 
 **[Backstage](https://github.com/varuka999/GGJ-2026-Backstage)**
-Short one-liner.
+Unity 2D top-down game (GGJ 2026) with a mask-based ability system (shader-driven Detective vision, collision-checked Ghost dash), a polymorphic clue/puzzle framework, and a modular interactable system built on Unity's Input System and Cinemachine.
 
 ---
 
