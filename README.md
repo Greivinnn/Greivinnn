@@ -47,4 +47,4 @@ Short one-liner.
 ### 📫 Contact
 
 - LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)
-- Email: your.email@example.com
+- Email: wenwugreivin5@gmail.com
