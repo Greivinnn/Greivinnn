@@ -25,7 +25,7 @@ I build core gameplay systems, things like: mechanics, combat, AI, and the under
 -->
 
 **[Penguin Slide](https://github.com/Greivinnn/GameJam-Greivin-JP-Thomas)**
-Short one-liner on what it does and the systems behind it (e.g. FSM-driven enemy AI with NavMesh pathfinding).
+Tile-based puzzle game combining raycast enemy vision with ice-sliding movement, solved by strategically pushing blocks to block sightlines and control momentum.
 
 **[Beat The Market](https://github.com/Greivinnn/Software_Developing_Game_Project)**
 Short one-liner.
