@@ -28,7 +28,7 @@ I build core gameplay systems, things like: mechanics, combat, AI, and the under
 Tile-based puzzle game combining raycast enemy vision with ice-sliding movement, solved by strategically pushing blocks to block sightlines and control momentum.
 
 **[Beat The Market](https://github.com/Greivinnn/Software_Developing_Game_Project)**
-Short one-liner.
+Unity rhythm game with a trading twist, real-time chart rendering, pitch-synced audio, animator-driven hit feedback, and a modular chart-loading system.
 
 **[Backstage](https://github.com/varuka999/GGJ-2026-Backstage)**
 Short one-liner.
