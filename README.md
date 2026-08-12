@@ -24,10 +24,10 @@ I build core gameplay systems, things like: mechanics, combat, AI, and the under
   interesting technical bit (not just "a game").
 -->
 
-**[Project Name](https://github.com/Greivinnn/repo-name)**
+**[Project Name](https://github.com/Greivinnn/GameJam-Greivin-JP-Thomas)**
 Short one-liner on what it does and the systems behind it (e.g. FSM-driven enemy AI with NavMesh pathfinding).
 
-**[Project Name](https://github.com/Greivinnn/repo-name)**
+**[Project Name](https://github.com/Greivinnn/Software_Developing_Game_Project)**
 Short one-liner.
 
 ---
