@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Greivin Wen - Gameplay Programmer Undergrad</h1>
+<h1>Greivin Wen - Gameplay Programmer Undergraduate</h1>
 
 </div>
 
