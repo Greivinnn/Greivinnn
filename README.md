@@ -47,4 +47,4 @@ Short one-liner.
 ### 📫 Contact
 
 - LinkedIn: [www.linkedin.com/in/greivinwen](https://www.linkedin.com/in/greivinwen)
-- Email: wenwugreivin5@gmail.com
+- Email: [wenwugreivin5@gmail.com](mailto:wenwugreivin5@gmail.com)
